@@ -2,13 +2,9 @@
 
 Bem-vindo ao repositório! Este espaço é dedicado ao compartilhamento das **soluções** para diversos problemas da plataforma Beecrowd, escritas em **Python**.  
 
----
-
 ## Sobre  
 
 Este repositório reflete minha jornada de aprendizado e aprimoramento em lógica de programação, algoritmos e estruturas de dados por meio dos desafios do Beecrowd. Aqui, você encontrará os codigos utilizados na plataforma e que solucionaram os problemas propostos.
-
----
 
 ## Principais Componentes dos Desafios  
 
@@ -17,8 +13,6 @@ Este repositório reflete minha jornada de aprendizado e aprimoramento em lógic
 - **Algoritmos**: Otimização, busca e ordenação.  
 
 Todas as soluções são implementadas em **Python**
-
----
 
 ## Perfil no Beecrowd  
 
